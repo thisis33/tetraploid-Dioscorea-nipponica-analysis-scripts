@@ -1,0 +1,10 @@
+Pattern_Name A B C D
+Balanced 0.25 0.25 0.25 0.25
+A_dominant 1 0 0 0
+B_dominant 0 1 0 0
+C_dominant 0 0 1 0
+D_dominant 0 0 0 1
+A_suppressed 0 0.33 0.33 0.33
+B_suppressed 0.33 0 0.33 0.33
+C_suppressed 0.33 0.33 0 0.33
+D_suppressed 0.33 0.33 0.33 0
